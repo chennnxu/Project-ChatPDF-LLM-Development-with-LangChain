@@ -1,8 +1,5 @@
 langchain
 langchain-community
-unstructured
-pdf2image
-opencv-python 
-opencv-python-headless
-chromadb
-langchain-huggingface
+langchain-openai
+langchain_chroma
+pypdf
