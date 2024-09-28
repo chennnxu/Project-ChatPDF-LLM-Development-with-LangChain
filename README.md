@@ -1,4 +1,4 @@
-# PDF Question Answering with LangChain and DeepSeek AI
+# PDF Question Answering with LangChain and DeepSeek
 
 This project demonstrates how to build a question-answering system for PDF documents using LangChain, DeepSeek AI, and Baichuan embeddings. The system can read a PDF file, process its content, and answer questions based on the document's information.
 
